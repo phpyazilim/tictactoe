@@ -5,6 +5,5 @@
 
 ###Tic tac toe with ReactJs
 
-Live Demo 
-https://ecstatic-swanson-731544.netlify.com/
+ 
 
